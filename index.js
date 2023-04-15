@@ -1,5 +1,5 @@
-hello = () =>{
-    console.log("hello abhishek")
+#!/usr/bin/env node
+const hello = () =>{
+    console.log("abhishek")
 }
-
-export default hello
+hello();

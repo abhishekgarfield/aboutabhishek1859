@@ -1,20 +1,23 @@
 {
-  "name": "aboutabhishek1859",
-  "version": "1.0.0",
+  "name": "test001859",
+  "version": "1.0.7",
   "description": "Share your information in a npx command",
   "main": "index.js",
+  "bin": "index.js",
+  "type": "module",
   "scripts": {
     "test": "npm run test",
-    "start": "npm run start"
+    "start": "npm run start",
+    "dev":"node ./index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abhishekgarfield/aboutabhishek1859.git"
+    "url": "git+https://github.com/abhishekgarfield/test"
   },
   "author": "abhishek",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/abhishekgarfield/aboutabhishek1859/issues"
+    "url": "https://github.com/abhishekgarfield/test/test"
   },
-  "homepage": "https://github.com/abhishekgarfield/portaboutabhishek1859folio#readme"
+  "homepage": "https://github.com/abhishekgarfield/test#readme"
 }
